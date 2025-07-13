@@ -46,7 +46,7 @@ This repo is a structured compilation of my week-wise hands-on assignments, alig
 
 ---
 
-## 📂 Folder Structure
+## 🎓 Practical Learning Timeline (Week-wise)
 
 | **Week** | **Module / Focus Area**                                | **Topics / Skills Covered**                                                                  |
 |----------|---------------------------------------------------------|----------------------------------------------------------------------------------------------|
