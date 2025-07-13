@@ -9,7 +9,7 @@
 ## 🧭 Table of Contents
 - [📚 About the Program](#-about-the-program)
 - [🚀 Repository Overview](#-repository-overview)
-- [📂 Folder Structure](#-folder-structure)
+- [🎓 Practical Learning Timeline (Week-wise)](#practical-learning-timeline-week-wise)
 - [🛠️ Technologies Used](#-technologies-used)
 - [🔍 How to Browse](#-how-to-browse)
 - [🎯 Program Modules Covered](#-program-modules-covered)
