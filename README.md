@@ -7,13 +7,13 @@
 ---
 
 ## 🧭 Table of Contents
-- [📚 About the Program](#-about-the-program)
-- [🚀 Repository Overview](#-repository-overview)
+- [📚 About the Program](#about-the-program)
+- [🚀 Repository Overview](#repository-overview)
 - [🎓 Practical Learning Timeline (Week-wise)](#practical-learning-timeline-week-wise)
-- [🛠️ Technologies Used](#-technologies-used)
-- [🔍 How to Browse](#-how-to-browse)
-- [🎯 Program Modules Covered](#-program-modules-covered)
-- [📄 License](#-license)
+- [🛠️ Technologies Used](#technologies-used)
+- [🔍 How to Browse](#how-to-browse)
+- [🎯 Program Modules Covered](#program-modules-covered)
+- [📄 License](#license)
 
 ---
 
@@ -54,7 +54,7 @@ This repo is a structured compilation of my week-wise hands-on assignments, alig
 | Week 2   | Advanced SQL, NUnit & Moq                               | CTEs, Joins, Views, Triggers, Indexing, Unit Testing, TDD, Mocking Dependencies              |
 | Week 3   | Entity Framework Core 8.0                               | ORM, Code-First Approach, LINQ, Relationships, CRUD, Migrations                              |
 | Week 4   | ASP.NET Core 8.0 Web API                                | RESTful APIs, Routing, Middleware, Swagger, JWT Authentication, Authorization                |
-| Week 5   | ASP.NET Core Web API and Microservices                  | Service Decomposition, Inter-service Communication, Logging, Health Checks, Docker Basics    |
+| Week 5   | Microservices with ASP.NET Core Web API                 | Service Decomposition, Inter-service Communication, Logging, Health Checks, Docker Basics    |
 | Week 6   | React (SPA Framework) – Part 1                          | JSX, Components, Props, State, Events, Forms, API Calls                                      |
 | Week 7   | React (SPA Framework) – Part 2                          | Conditional Rendering, Routing, Lists/Keys, Integration with Backend                         |
 | Week 8   | GIT, Version Control & Submission                       | Git Workflows, Branching, Cloning, Pull Requests, Repository Setup, Final Submission         |
