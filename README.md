@@ -7,13 +7,11 @@
 ---
 
 ## 🧭 Table of Contents
-- [📚 About the Program](#about-the-program)
-- [🚀 Repository Overview](#repository-overview)
-- [🎓 Practical Learning Timeline (Week-wise)](#practical-learning-timeline--week-wise)
-- [🛠️ Technologies Used](#technologies-used)
-- [🔍 How to Browse](#how-to-browse)
-- [🎯 Program Modules Covered](#program-modules-covered)
-- [📄 License](#license)
+- [📚 About the Program](#-about-the-program)
+- [🚀 Repository Overview](#-repository-overview)
+- [🎓 Weekly Learning Track](#-weekly-learning-track)
+- [🛠️ Technologies Used](#-technologies-used)
+- [🔍 How to Browse](#-how-to-browse)
 
 ---
 
@@ -46,7 +44,7 @@ This repo is a structured compilation of my week-wise hands-on assignments, alig
 
 ---
 
-## 🎓 Practical Learning Timeline (Week-wise)
+## 🎓 Weekly Learning Track
 
 | **Week** | **Module / Focus Area**                                | **Topics / Skills Covered**                                                                  |
 |----------|---------------------------------------------------------|----------------------------------------------------------------------------------------------|
